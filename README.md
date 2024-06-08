@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+![Esta jpg (2)](https://github.com/jorgerodriguezg1988/jorgerodriguezg1988/assets/71800555/3142e52f-d110-46e2-af42-fa7d0e10d278)
+
+<p align="center" width="300">
+   <img align="center" width="200" src=![Esta jpg (2)](https://github.com/jorgerodriguezg1988/jorgerodriguezg1988/assets/71800555/3142e52f-d110-46e2-af42-fa7d0e10d278) />
+   <h3 align="center">¡Hey 👋! Soy Jorge Rodríguez Garzón 👨🏻‍💻</h3>
+</p>
+
 <!--
 **jorgerodriguezg1988/jorgerodriguezg1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
