@@ -27,7 +27,7 @@
 
 - 📱 +1 (873) 562 57 63 (WhatsApp)
 - 📧 JorgeRodriguezG1988@gmail.com.
-- 🖇️ https://www.linkedin.com/in/jorge-andres-rodriguez
+- 🖇️ https://www.linkedin.com/in/jorgeandresrodriguez
 
 
 <!--
